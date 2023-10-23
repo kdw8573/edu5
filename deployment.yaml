@@ -13,7 +13,7 @@ spec:
         run: mynginx
     spec:
       containers:
-      - image: grch.io/shclub/nginx
+      - image: grch.io/kdw8573/edu1
         name: mynginx
         ports:
         - containerPort: 80
